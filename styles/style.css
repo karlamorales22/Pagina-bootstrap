@@ -1,0 +1,50 @@
+*{
+margin:0;
+padding:0;
+font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #F7F1FB;
+}
+.navbar{
+background-color: plum;
+}
+nav ul li{
+    color:purple;
+    font-weight: 500;
+}
+.carousel{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 50%;
+    min-height: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.container-fluid{
+    background-color: #F7F1FB;
+    position: relative;
+    top: 650px;
+}
+.card-container{
+    position: relative;
+    top: 650px;
+    background-color: #F7F1FB;
+}
+.card-container-fluid{
+    position: relative;
+    top: 650px;
+    background-color: #F7F1FB;
+}
+.card-container-bt21{
+    background-color: #F7F1FB;
+}
+footer {
+    background-color: plum;
+    color: purple;
+    padding: 10px;
+    position: relative;
+    top: 700px;
+    width: 100%;
+}
+
